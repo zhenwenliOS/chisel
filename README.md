@@ -9,7 +9,7 @@ For a comprehensive overview of LLDB, and how Chisel complements it, read Ari Gr
 
 ```shell
 brew update
-brew install chisel
+brew install chisel-ext
 ```
 
 if `.lldbinit` file doesn't exist you can create it & open it by tapping on the terminal
